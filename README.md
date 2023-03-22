@@ -1,0 +1,5 @@
+# Este programa tiene como funcionalidad almacenar el número máximo de clientes que pueden estar en la barbería y el número de clientes que han sido atendidos tambien un semaforo  definiendo asi  la silla del barbero y  para las sillas de espera, con varia funciones las cuales son: una funcion para el tiempo que tarda el barbero en recortar o afeitar a un cliente, otro para representar al cliente es decir si el barbero esta durmiendo, despertarlo de lo contrario, si hay sillas disponibles, sentarse; de lo contrario, irse, otra funcion para que  el barbero cuando hay clientes en espera, afeitar al siguiente cliente; de lo contrario, dormir y un bucle white que cree y ejecute hilos para los clientes y  el  barbero esperando a que todos los hilos terminen.
+
+
+# Link del video sobre el ejercicio
+# https://miucateciedu-my.sharepoint.com/:v:/g/personal/20200692_miucateci_edu_do/ETVClO4XnC9IkPZkxaWeIWwBBqjSw3_ofayIwyHyg9maHg?e=o7wXZV
